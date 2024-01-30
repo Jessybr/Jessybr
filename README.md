@@ -7,7 +7,7 @@
 
 # About Me
 - 📚 I'm studing Analysis and Systems Development at IFSP
-- 🌱 I’m currently learning React, and in the future I wanto to learn Angular
+- 🌱 I’m currently learning React, and in the future I want to learn Angular
 - 😄 My Pronouns are: She/Her
 - ⚡ My hobbies are listening music, drawing, reading and watching series and animes
 - 🌻 I love animals and the nature 
