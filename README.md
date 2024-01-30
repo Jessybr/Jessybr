@@ -2,7 +2,7 @@
 # Hi guys, I'm Jéssica! 👋
 
 
-|I'm a Front-End Developer in love with tecnologic. |<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="200" height="auto"/>|
+|I'm a Front-End Developer in love with tecnologic. |<img loading="lazy" src="https://i.ibb.co/YPkLmTL/octocat-1706570748094.png" width="200" height="auto"/>|
 | :--- | ---: |
 
 # About Me
