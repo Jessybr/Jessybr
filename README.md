@@ -16,7 +16,7 @@
 
 
 ## 🛠 Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,c,php,react,tailwind,mysql,vscode,figma,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,c,php,java,react,tailwind,mysql,vscode,figma,github,git)](https://skillicons.dev)
 
           
 <div>
